@@ -28,6 +28,8 @@ Microsoft SQL Server is a relational database management system (RDBMS) that sup
   
 -----
 ## Tools
+SQL Planner (Free and Complete Windows and SQL Monitor | Audit | Backup | Scripting Tool) 
+(https://mssqlplanner.com/monitor-sql-server-and-analyze-ms-sql-server-health-from-any-device/)
 
 ### Database Tools
 * [SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
